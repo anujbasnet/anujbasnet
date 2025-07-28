@@ -76,8 +76,13 @@
 ## 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/anujbasnet/anujbasnet/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anujbasnet/anujbasnet/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/anujbasnet/anujbasnet/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  </picture>
 </p>
+
+
 
 ---
 
