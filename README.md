@@ -13,8 +13,7 @@
 ---
 
 ## 🌱 Currently Learning
-- 📱 React Native  
-- 🧠 TensorFlow  
+- 📱 React Native
 - 🌐 Express & MongoDB  
 - 📊 Math for Machine Learning  
 
@@ -23,7 +22,8 @@
 ## 💬 Ask Me About
 - React Native  
 - React  
-- Express  
+- Express
+- Nodejs 
 
 ---
 
