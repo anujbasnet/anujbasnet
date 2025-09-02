@@ -30,7 +30,7 @@
 ## 📫 How to Reach Me
 
 <p align="left">
-  <a href="mailto:anjbas123@gmail.com" target="_blank" rel="noopener noreferrer">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=anjbas123@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/anuj-basnet-544116269/" target="_blank" rel="noopener noreferrer">
