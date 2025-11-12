@@ -5,7 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=anujbasnet&label=Profile%20views&color=0e75b6&style=flat" alt="anujbasnet" />
 </p>
 
-
 ## 🌱 Currently Learning
 - 📊 Math for Machine Learning
   
@@ -14,8 +13,8 @@
 ## 💬 Ask Me About
 - React Native  
 - React  
-- Express
-- Nodejs 
+- Express  
+- Node.js  
 
 ---
 
@@ -29,7 +28,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
-
 
 ---
 
@@ -48,13 +46,16 @@
 
 ---
 
-### 🚀 Frameworks, Libraries & Databases
+### 🚀 Frameworks, Libraries, Tools & Databases
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React Native" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" alt="TensorFlow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" alt="Android Studio" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="40" alt="Xcode" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code" />
 </p>
 
 ---
