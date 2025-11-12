@@ -5,18 +5,10 @@
   <img src="https://komarev.com/ghpvc/?username=anujbasnet&label=Profile%20views&color=0e75b6&style=flat" alt="anujbasnet" />
 </p>
 
----
-
-## 🚧 Currently Working On
-- 🛒 **Appointment Booking System** — A system having cross-platform apps in React Native, website and admin panel in React and Backend in nodejs
-
----
 
 ## 🌱 Currently Learning
-- 📱 React Native
-- 🌐 Express & MongoDB  
-- 📊 Math for Machine Learning  
-
+- 📊 Math for Machine Learning
+  
 ---
 
 ## 💬 Ask Me About
